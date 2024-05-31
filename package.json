@@ -1,11 +1,11 @@
 {
-    "name": "Lightshadow02-Launcher",
-    "preductname": "Lightshadow02 Launcher",
-    "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Lightshadow02",
+    "name": "PokeStream-Launcher",
+    "preductname": "PokeStream Launcher",
+    "version": "1.0.1",
+    "description": "Launcher Mincraft pour le serveur PokeStream",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Lightshadow02,Inc.",
+        "name": "luuxis, Lightshadow02, MrburritosTV,Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
