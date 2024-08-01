@@ -1,7 +1,7 @@
 {
     "name": "PokeStream-Launcher",
     "preductname": "PokeStream Launcher",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "description": "Launcher Mincraft pour le serveur PokeStream",
     "main": "src/app.js",
     "author": {
